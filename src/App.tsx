@@ -50,7 +50,7 @@ const App: React.FC = () => {
         <header>
           <input
             type="text"
-            placeholder="Поиск курсов"
+            placeholder="Search Course"
             className="search-bar"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
