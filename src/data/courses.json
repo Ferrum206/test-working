@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Figma - UI/UX Design Essential Training",
+    "category": "design",
+    "lessons": 6,
+    "students": 198,
+    "level": "beginner",
+    "rating": 4,
+    "image": "/images/learnfigma.png"
+  },
+  {
+    "id": 2,
+    "title": "Python for Beginners - Learn Programming from scratch",
+    "category": "development",
+    "lessons": 21,
+    "students": 99,
+    "level": "advanced",
+    "rating": 3,
+    "image": "/images/python.png"
+  },
+  {
+    "id": 3,
+    "title": "Acoustic Guitar and Electric Guitar Started",
+    "category": "music",
+    "lessons": 8,
+    "students": 301,
+    "level": "average",
+    "rating": 5,
+    "image": "/images/music.png"
+  },
+  {
+    "id": 4,
+    "title": "Mobile App Development with Flutter & Dart (iOS and Android)",
+    "category": "development",
+    "lessons": 15,
+    "students": 215,
+    "level": "beginner",
+    "rating": 2,
+    "image": "/images/flutter.png"
+  },
+  {
+    "id": 5,
+    "title": "Ionic React: Mobile Development with Ionic 5 Started",
+    "category": "development",
+    "lessons": 15,
+    "students": 87,
+    "level": "advanced",
+    "rating": 5,
+    "image": "/images/ionic.png"
+  },
+  {
+    "id": 6,
+    "title": "Sports Management: The Essentials Course",
+    "category": "sports",
+    "lessons": 28,
+    "students": 156,
+    "level": "beginner",
+    "rating": 1,
+    "image": "/images/sport.png"
+  },
+  {
+    "id": 7,
+    "title": "How to Market Yourself as a Consultant",
+    "category": "marketing",
+    "lessons": 33,
+    "students": 64,
+    "level": "beginner",
+    "rating": 3,
+    "image": "/images/consultant.png"
+  },
+  {
+    "id": 8,
+    "title": "Become a Product Manager | Learn the Skills & Get the Job",
+    "category": "management",
+    "lessons": 5,
+    "students": 134,
+    "level": "advanced",
+    "rating": 4,
+    "image": "/images/product-manager.png"
+  }
+]
